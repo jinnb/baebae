@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11916033.0029.wav": "제대로 알 수"
+}

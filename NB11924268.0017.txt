@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924268.0017.wav": "불교경전 하는"
+}

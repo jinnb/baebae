@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11393632.0033.wav": "달걀을"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11817327.0033.wav": "너무나 커다란"
+}

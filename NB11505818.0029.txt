@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11505818.0029.wav": "내가 죄가 많다"
+}

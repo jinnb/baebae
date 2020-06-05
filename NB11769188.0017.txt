@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11769188.0017.wav": "받은 이유는"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10974588.0041.wav": "그런 얘깁니다"
+}

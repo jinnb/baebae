@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11828016.0019.wav": "악성 루머"
+}

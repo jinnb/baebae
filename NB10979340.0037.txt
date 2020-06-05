@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10979340.0037.wav": "한국과 미국은"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10646561.0057.wav": "weather 달지는 않겠죠"
+}

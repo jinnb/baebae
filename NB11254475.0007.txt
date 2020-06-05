@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11254475.0007.wav": "돼지"
+}

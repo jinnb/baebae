@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10658206.0022.wav": "혹은"
+}

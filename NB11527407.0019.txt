@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11527407.0019.wav": "마리오"
+}

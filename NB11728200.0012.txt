@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11728200.0012.wav": "짝퉁입니다"
+}

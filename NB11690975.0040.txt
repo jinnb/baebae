@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11690975.0040.wav": "현수는 여자야"
+}

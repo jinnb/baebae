@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11348363.0035.wav": "기온차"
+}

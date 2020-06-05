@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11513930.0051.wav": "평양은 최저로"
+}

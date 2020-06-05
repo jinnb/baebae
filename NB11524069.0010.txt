@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11524069.0010.wav": "통화 돼요"
+}

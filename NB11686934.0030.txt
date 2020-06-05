@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11686934.0030.wav": "화면에"
+}

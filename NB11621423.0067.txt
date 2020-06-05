@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0067.wav": "김수 물"
+}

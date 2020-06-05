@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11684139.0039.wav": "가능할"
+}

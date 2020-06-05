@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11614510.0052.wav": "그리하여"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11866177.0015.wav": "그림자"
+}

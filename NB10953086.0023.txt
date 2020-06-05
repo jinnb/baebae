@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10953086.0023.wav": "dual FAN 오는 고사작전에이어서"
+}

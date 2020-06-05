@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11733935.0039.wav": "의역하자면"
+}

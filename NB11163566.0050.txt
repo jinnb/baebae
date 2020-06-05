@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11163566.0050.wav": "태극기 게양"
+}

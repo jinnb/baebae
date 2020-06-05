@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11629019.0022.wav": "공부하고 있어"
+}

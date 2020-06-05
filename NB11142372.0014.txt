@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11142372.0014.wav": "이 작은 역에서"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11125360.0003.wav": "지겨워"
+}

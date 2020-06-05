@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11744994.0018.wav": "논리 일 쳤다고"
+}

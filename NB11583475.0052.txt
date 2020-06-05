@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11583475.0052.wav": "기회로 삼았다"
+}

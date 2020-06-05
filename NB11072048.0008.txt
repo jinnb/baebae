@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0008.wav": "5g"
+}

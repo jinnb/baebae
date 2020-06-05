@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10693603.0040.wav": "아쉬움"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10949098.0043.wav": "해외로 나가"
+}

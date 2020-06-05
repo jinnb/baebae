@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11617301.0056.wav": "지옥"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11855777.0052.wav": "전사하여"
+}

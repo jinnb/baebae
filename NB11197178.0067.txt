@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11197178.0067.wav": "투표지 위해"
+}

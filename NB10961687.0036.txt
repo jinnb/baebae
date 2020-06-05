@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10961687.0036.wav": "시민 모두가"
+}

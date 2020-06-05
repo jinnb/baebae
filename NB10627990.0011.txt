@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10627990.0011.wav": "못 견뎌 했을 때"
+}

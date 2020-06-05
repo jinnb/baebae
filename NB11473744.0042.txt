@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11473744.0042.wav": "미국이"
+}

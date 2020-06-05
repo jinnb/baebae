@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10771817.0005.wav": "악수"
+}

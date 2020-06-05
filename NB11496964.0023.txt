@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11496964.0023.wav": "바깥 김영한"
+}

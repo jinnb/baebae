@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0078.wav": "오늘의 날씨"
+}

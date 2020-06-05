@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11355943.0030.wav": "셀카를 찍고"
+}

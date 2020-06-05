@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11838583.0015.wav": "훈련이 없어"
+}

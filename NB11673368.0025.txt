@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11673368.0025.wav": "우리은행에서"
+}

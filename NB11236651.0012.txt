@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11236651.0012.wav": "최영미"
+}

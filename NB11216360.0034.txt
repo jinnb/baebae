@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11216360.0034.wav": "자화상"
+}

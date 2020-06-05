@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11457490.0008.wav": "따뜻한"
+}

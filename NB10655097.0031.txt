@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10655097.0031.wav": "불투명합니다"
+}

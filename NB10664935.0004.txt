@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10664935.0004.wav": "일본어"
+}

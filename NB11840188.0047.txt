@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11840188.0047.wav": "벌써 시간은"
+}

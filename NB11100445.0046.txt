@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11100445.0046.wav": "Yes가이 소식을 들었다면"
+}

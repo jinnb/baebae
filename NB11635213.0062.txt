@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11635213.0062.wav": "말해"
+}

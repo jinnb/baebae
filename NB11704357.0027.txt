@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11704357.0027.wav": "고작 7시"
+}

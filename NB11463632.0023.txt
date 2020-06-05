@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11463632.0023.wav": "돈을 퍼주다"
+}

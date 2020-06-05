@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11524069.0005.wav": "허리를 한 거야"
+}

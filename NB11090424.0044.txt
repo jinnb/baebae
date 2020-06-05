@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11090424.0044.wav": "웅크린 사람은"
+}

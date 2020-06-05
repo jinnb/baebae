@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10840074.0046.wav": "당신이 사진"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11226523.0012.wav": "대졸 고졸 중졸"
+}

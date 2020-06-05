@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11632614.0038.wav": "생각해보면"
+}

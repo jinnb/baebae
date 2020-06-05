@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11322077.0039.wav": "바싹 다가가면"
+}

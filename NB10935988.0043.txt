@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10935988.0043.wav": "혐오와 배척 등"
+}

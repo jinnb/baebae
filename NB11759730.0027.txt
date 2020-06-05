@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11759730.0027.wav": "Google translate 마라톤을 도왔던 사람들처럼 지금까지"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924728.0019.wav": "다음과 같이"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11137431.0040.wav": "정말 절실하지"
+}

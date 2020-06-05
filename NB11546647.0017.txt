@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11546647.0017.wav": "바로"
+}

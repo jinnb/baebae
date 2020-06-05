@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11666121.0030.wav": "좁고 멀고"
+}

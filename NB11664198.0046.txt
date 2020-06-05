@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11664198.0046.wav": "기억하라"
+}

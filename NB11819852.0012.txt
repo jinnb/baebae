@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11819852.0012.wav": "홍채아"
+}

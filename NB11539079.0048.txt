@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11539079.0048.wav": "아나스타샤"
+}

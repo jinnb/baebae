@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11479580.0030.wav": "무섭게 번지고 있는 AI 때문에"
+}

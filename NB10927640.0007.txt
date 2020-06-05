@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10927640.0007.wav": "위기 상황을"
+}

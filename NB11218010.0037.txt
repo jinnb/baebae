@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11218010.0037.wav": "차이나는 날씨"
+}

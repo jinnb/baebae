@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11231273.0045.wav": "베르사유"
+}

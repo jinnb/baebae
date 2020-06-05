@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11634589.0023.wav": "일렬로"
+}

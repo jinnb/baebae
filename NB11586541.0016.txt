@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11586541.0016.wav": "황시 한문 이름"
+}

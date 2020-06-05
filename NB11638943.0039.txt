@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11638943.0039.wav": "자 그렇다면"
+}

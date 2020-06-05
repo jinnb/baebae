@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11910146.0029.wav": "가을 뼈다귀"
+}

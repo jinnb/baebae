@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11125360.0040.wav": "참석 당시 저희 JTBC가 고민 끝에 나 보냈던"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11507621.0042.wav": "내일은 광복절"
+}

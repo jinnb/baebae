@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11276163.0027.wav": "어떤 사람인가"
+}

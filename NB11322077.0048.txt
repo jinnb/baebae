@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11322077.0048.wav": "성큼"
+}

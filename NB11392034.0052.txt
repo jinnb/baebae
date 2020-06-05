@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11392034.0052.wav": "3월 6일 수업"
+}

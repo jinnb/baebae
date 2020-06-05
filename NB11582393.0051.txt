@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11582393.0051.wav": "다시 꺼내 줘"
+}

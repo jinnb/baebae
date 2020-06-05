@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11572470.0011.wav": "전두환 씨는"
+}

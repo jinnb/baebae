@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11484148.0022.wav": "파인애플"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10604725.0006.wav": "이라 6"
+}

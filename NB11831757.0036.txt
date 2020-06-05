@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11831757.0036.wav": "이희호"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10764789.0006.wav": "정말 놀랐다"
+}

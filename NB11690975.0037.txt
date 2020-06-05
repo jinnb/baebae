@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11690975.0037.wav": "위기 충전했다"
+}

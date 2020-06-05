@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11599681.0036.wav": "제 자신이"
+}

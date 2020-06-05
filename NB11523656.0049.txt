@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11523656.0049.wav": "땡깡이란 말이"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10782890.0049.wav": "물론 아니겠죠"
+}

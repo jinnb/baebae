@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11867743.0007.wav": "가수가"
+}

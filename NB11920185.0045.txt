@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11920185.0045.wav": "마석"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11596652.0049.wav": "유희왕"
+}

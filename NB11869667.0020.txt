@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11869667.0020.wav": "습관적으로"
+}

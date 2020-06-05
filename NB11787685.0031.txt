@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11787685.0031.wav": "당당 했을 걸"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11540797.0005.wav": "중국의 하얼빈"
+}

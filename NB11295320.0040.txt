@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11295320.0040.wav": "그녀의 연설은"
+}

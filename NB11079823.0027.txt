@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11079823.0027.wav": "역사 교과서"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11270862.0019.wav": "이슬람 국가의"
+}

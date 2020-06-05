@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11192626.0040.wav": "많이 덥네"
+}

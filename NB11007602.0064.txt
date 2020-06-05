@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11007602.0064.wav": "오늘의 앵커"
+}

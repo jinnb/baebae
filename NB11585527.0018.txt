@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11585527.0018.wav": "번역"
+}

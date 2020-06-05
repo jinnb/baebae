@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10972971.0041.wav": "프레임 밖에서"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11163566.0056.wav": "교육을 받고"
+}

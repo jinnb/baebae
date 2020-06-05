@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11231969.0030.wav": "등장합니다"
+}

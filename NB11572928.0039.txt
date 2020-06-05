@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11572928.0039.wav": "남북 고위급"
+}

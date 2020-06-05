@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11707784.0011.wav": "천둥"
+}

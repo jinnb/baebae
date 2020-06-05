@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11671269.0028.wav": "대중 앞에"
+}

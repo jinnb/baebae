@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11522076.0037.wav": "고유명사"
+}

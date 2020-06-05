@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10792712.0008.wav": "독감"
+}

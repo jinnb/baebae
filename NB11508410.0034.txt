@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11508410.0034.wav": "학교급식에서"
+}

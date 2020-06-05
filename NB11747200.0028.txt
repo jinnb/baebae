@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11747200.0028.wav": "필요 없거든"
+}

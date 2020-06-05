@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11916975.0036.wav": "놓쳐 버렸지"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11635213.0021.wav": "대법원 판결이"
+}

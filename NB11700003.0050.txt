@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11700003.0050.wav": "톡 했을 겁니다"
+}

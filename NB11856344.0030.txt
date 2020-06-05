@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11856344.0030.wav": "글은"
+}

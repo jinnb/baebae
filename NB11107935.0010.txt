@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11107935.0010.wav": "하루 7등"
+}

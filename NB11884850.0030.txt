@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11884850.0030.wav": "검사 들려 줘"
+}

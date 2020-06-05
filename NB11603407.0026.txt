@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11603407.0026.wav": "바느질"
+}

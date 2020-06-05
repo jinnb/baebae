@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10791143.0013.wav": "어린이집 CCTV 설치 의무화 법안"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11884850.0063.wav": "기 때문에"
+}

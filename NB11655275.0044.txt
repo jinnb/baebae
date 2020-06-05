@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11655275.0044.wav": "사회자 정도"
+}

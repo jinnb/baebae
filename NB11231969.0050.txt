@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11231969.0050.wav": "그 아들"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11185533.0009.wav": "너보다"
+}

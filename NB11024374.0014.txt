@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11024374.0014.wav": "일요일"
+}

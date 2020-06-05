@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11829692.0011.wav": "30명 정도"
+}

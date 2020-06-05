@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11831757.0058.wav": "걸려 있었어"
+}

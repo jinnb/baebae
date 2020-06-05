@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11542740.0049.wav": "굳이"
+}

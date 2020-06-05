@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11417837.0008.wav": "밥값 3만 원"
+}

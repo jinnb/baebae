@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11489985.0011.wav": "깃털과 몸통"
+}

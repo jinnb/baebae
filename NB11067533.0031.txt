@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11067533.0031.wav": "foreign 피크 저는이 이모티콘들이 주장하는 것 가운데 단연"
+}

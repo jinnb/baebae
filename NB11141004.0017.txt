@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11141004.0017.wav": "천 20만 원"
+}

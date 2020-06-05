@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11564433.0037.wav": "귀에"
+}

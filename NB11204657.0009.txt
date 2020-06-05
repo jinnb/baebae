@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11204657.0009.wav": "잘 생긴 얼굴과"
+}

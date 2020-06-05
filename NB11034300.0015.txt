@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11034300.0015.wav": "레스포색"
+}

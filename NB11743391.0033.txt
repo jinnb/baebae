@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11743391.0033.wav": "꽤 오래"
+}

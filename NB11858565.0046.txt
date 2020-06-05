@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11858565.0046.wav": "일본 햄찡"
+}

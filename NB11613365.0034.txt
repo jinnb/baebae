@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11613365.0034.wav": "이른 번에"
+}

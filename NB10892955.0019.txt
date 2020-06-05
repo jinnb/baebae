@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10892955.0019.wav": "엄청난 돈이"
+}

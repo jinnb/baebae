@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11799363.0079.wav": "타미 옳지"
+}

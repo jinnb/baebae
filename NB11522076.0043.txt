@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11522076.0043.wav": "우리는 지금"
+}

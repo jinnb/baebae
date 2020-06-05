@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11922160.0040.wav": "해고 하게 됐다"
+}

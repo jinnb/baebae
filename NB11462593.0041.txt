@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11462593.0041.wav": "하소 정은"
+}

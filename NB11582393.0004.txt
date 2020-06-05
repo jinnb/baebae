@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11582393.0004.wav": "화정이"
+}

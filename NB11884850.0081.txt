@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11884850.0081.wav": "세상을"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10691612.0038.wav": "내가 바보인가"
+}

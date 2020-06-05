@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11731090.0053.wav": "제일"
+}

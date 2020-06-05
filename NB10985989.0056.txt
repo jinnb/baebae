@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10985989.0056.wav": "고백했습니다"
+}

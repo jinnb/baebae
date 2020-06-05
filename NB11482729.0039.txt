@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11482729.0039.wav": "파종을 하고"
+}

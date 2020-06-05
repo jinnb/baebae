@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11617946.0040.wav": "필사적으로"
+}

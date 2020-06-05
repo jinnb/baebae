@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10649695.0011.wav": "쿠바의 대표"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11653710.0026.wav": "고 말했다"
+}

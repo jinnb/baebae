@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11392894.0033.wav": "우리의 자존심"
+}

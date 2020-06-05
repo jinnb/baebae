@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11046874.0004.wav": "커다랗고"
+}

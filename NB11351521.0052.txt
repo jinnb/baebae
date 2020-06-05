@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11351521.0052.wav": "얇아져 왔다"
+}

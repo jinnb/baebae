@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11771397.0038.wav": "WeChat을 비호하고"
+}

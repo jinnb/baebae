@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11261145.0040.wav": "하루가 남아"
+}

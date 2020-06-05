@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11261904.0003.wav": "미국 뉴멕시코 주 reset 작은 협곡에 처음으로 UFO가 떨어졌고"
+}

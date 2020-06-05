@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11174428.0047.wav": "보인다"
+}

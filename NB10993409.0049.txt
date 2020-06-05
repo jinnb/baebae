@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10993409.0049.wav": "시간은 9시"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11660595.0012.wav": "이즈미 마사"
+}

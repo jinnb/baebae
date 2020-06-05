@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11825668.0032.wav": "가만 둘 수 없어"
+}

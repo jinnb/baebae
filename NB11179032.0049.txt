@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11179032.0049.wav": "혼날 우리는"
+}

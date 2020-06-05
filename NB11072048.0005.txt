@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0005.wav": "세금을 낼 사람"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11715958.0021.wav": "중간 평가 점수 c 학점"
+}

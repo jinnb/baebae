@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10828567.0074.wav": "제때 제대로"
+}

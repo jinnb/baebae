@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11653121.0037.wav": "후보자들에게"
+}

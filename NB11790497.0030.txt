@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11790497.0030.wav": "선전포고했다"
+}

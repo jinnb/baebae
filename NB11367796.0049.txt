@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11367796.0049.wav": "진천"
+}

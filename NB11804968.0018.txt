@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11804968.0018.wav": "당뇨 등등"
+}

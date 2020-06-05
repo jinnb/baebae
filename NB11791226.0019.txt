@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11791226.0019.wav": "이변 뉴스"
+}

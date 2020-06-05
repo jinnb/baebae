@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11387319.0041.wav": "예배자"
+}

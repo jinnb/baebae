@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10848367.0007.wav": "흔적을"
+}

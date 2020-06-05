@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0065.wav": "평범한 백성"
+}

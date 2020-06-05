@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11194284.0016.wav": "엄마"
+}

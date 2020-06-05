@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10780983.0034.wav": "수영 하겠다"
+}

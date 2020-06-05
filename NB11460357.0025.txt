@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11460357.0025.wav": "이미 전설이 된 케네디와 exception 제로 날 필요가 없을 것 같고"
+}

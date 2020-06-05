@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11183271.0005.wav": "김종서 황보인"
+}

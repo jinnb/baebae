@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11593698.0031.wav": "계산해 밝았던"
+}

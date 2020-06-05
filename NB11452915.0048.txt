@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11452915.0048.wav": "만남"
+}

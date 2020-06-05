@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10853155.0000.wav": "예 시청자 여러분 JTBC 뉴스룸"
+}

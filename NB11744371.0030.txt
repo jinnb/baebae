@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11744371.0030.wav": "안전모드"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11911437.0018.wav": "지상 3km 이상 상공에는"
+}

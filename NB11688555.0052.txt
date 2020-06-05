@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11688555.0052.wav": "영원한 라이벌"
+}

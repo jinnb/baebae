@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10980677.0003.wav": "개털"
+}

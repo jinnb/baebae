@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11738135.0015.wav": "전문 변호사"
+}

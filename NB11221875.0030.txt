@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11221875.0030.wav": "임시 공휴일"
+}

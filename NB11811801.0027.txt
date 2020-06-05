@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11811801.0027.wav": "그가 보기에"
+}

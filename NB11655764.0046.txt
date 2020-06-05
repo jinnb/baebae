@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11655764.0046.wav": "어제 색칠 크는"
+}

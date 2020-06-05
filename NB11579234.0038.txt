@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11579234.0038.wav": "우리의 하늘은"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11371186.0012.wav": "이름 박 홍명현"
+}

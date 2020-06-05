@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11898588.0026.wav": "마음이다"
+}

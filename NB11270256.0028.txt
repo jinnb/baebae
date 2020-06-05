@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11270256.0028.wav": "김시민 1kg에 대상이"
+}

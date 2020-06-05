@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11869667.0018.wav": "스미마셍"
+}

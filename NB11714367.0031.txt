@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11714367.0031.wav": "구태희"
+}

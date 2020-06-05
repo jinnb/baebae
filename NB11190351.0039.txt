@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11190351.0039.wav": "신랑"
+}

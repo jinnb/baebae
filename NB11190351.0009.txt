@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11190351.0009.wav": "한 개"
+}

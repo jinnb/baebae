@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11429959.0010.wav": "그는 보수가"
+}

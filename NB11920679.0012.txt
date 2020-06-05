@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11920679.0012.wav": "구글 3분에"
+}

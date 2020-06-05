@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10677536.0048.wav": "쿼바디스"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11666121.0023.wav": "드레스"
+}

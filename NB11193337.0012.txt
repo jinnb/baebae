@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11193337.0012.wav": "좋습니다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11757660.0040.wav": "그 돈의힘"
+}

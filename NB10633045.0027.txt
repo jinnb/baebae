@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10633045.0027.wav": "3일 뜻 말 뜻"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11179964.0016.wav": "짊어지고"
+}

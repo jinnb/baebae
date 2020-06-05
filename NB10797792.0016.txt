@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10797792.0016.wav": "단어 드리죠"
+}

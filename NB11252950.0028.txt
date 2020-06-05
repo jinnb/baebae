@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11252950.0028.wav": "받은 곳이 바로"
+}

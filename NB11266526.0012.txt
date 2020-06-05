@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11266526.0012.wav": "궁즉통"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11293323.0055.wav": "식 가격"
+}

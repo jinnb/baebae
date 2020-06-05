@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11606375.0064.wav": "돌이 되고 말"
+}

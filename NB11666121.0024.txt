@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11666121.0024.wav": "최저 임금"
+}

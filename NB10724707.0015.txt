@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10724707.0015.wav": "건가에서도 이니셜은 자주 쓰입니다 ysd JJ PNB"
+}

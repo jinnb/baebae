@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11058529.0039.wav": "왜냐하면"
+}

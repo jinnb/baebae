@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11537387.0048.wav": "답답해지는"
+}

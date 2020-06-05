@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11847424.0019.wav": "얼핏 들으면"
+}

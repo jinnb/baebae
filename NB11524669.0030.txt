@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11524669.0030.wav": "그 모든"
+}

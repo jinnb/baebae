@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11427877.0043.wav": "이상한 사람"
+}

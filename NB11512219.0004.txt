@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11512219.0004.wav": "일하면"
+}

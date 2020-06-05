@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11582393.0047.wav": "버디"
+}

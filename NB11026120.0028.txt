@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11026120.0028.wav": "정식 번역"
+}

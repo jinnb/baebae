@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11731090.0034.wav": "한편 명경지수"
+}

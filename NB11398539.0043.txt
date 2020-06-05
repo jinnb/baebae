@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11398539.0043.wav": "다 마쳤습니다"
+}

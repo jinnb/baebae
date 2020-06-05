@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11031507.0048.wav": "나도 아프다"
+}

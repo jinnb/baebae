@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11453515.0052.wav": "더 많아"
+}

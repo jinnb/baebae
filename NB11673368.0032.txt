@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11673368.0032.wav": "묘하게 닮았네"
+}

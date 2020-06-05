@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11617946.0049.wav": "숨 쉴 수 없어"
+}

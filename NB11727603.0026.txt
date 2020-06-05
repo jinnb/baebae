@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11727603.0026.wav": "욕은 칼이 돼요"
+}

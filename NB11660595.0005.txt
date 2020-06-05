@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11660595.0005.wav": "마음껏 사용"
+}

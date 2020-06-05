@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10868977.0055.wav": "전라도 총리"
+}

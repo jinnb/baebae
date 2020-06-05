@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11217075.0008.wav": "이번 총선에서"
+}

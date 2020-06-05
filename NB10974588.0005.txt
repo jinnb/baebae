@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10974588.0005.wav": "이거 같이 해 줘"
+}

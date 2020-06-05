@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11640174.0027.wav": "어린 시절에"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10949098.0000.wav": "예상대로 jtbc 뉴스룸 2부 문을 열겠습니다"
+}

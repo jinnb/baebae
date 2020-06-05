@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11681033.0024.wav": "할 순 없다"
+}

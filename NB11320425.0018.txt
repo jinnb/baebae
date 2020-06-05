@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11320425.0018.wav": "눈으로 보이는"
+}

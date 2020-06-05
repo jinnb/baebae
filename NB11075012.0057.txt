@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11075012.0057.wav": "5도에 외계인"
+}

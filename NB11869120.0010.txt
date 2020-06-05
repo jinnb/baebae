@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11869120.0010.wav": "계급이 높은"
+}

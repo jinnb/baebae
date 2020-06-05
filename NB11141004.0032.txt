@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11141004.0032.wav": "평범한 가정이"
+}

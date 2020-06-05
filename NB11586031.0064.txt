@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11586031.0064.wav": "방일 표한다"
+}

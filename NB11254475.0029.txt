@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11254475.0029.wav": "MB 정부 5년간 두배로 커졌어"
+}

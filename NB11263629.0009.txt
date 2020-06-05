@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11263629.0009.wav": "앞다리를"
+}

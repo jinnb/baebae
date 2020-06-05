@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11122836.0038.wav": "시국선언"
+}

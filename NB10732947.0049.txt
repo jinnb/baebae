@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10732947.0049.wav": "한 구절이"
+}

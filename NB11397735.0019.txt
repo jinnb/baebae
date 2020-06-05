@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11397735.0019.wav": "대통령"
+}

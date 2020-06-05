@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10877564.0005.wav": "막강합니다"
+}

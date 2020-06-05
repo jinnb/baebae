@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11487044.0028.wav": "욕해"
+}

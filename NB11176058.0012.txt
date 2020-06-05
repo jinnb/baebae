@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11176058.0012.wav": "엄연히"
+}

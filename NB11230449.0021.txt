@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11230449.0021.wav": "큰별이"
+}

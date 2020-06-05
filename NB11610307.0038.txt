@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11610307.0038.wav": "세상에 전해 줘"
+}

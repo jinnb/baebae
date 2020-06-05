@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11688555.0015.wav": "그 에너지를"
+}

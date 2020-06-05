@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11243218.0012.wav": "해님 hash"
+}

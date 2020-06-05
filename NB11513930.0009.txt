@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11513930.0009.wav": "공포"
+}

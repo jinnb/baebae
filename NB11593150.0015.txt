@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11593150.0015.wav": "Hi Google 자체가 니들은 그렇게 주장해"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11388909.0047.wav": "헤헤"
+}

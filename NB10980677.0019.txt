@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10980677.0019.wav": "크고 안락한"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10830166.0010.wav": "여성은"
+}

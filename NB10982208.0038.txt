@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10982208.0038.wav": "웅크리고"
+}

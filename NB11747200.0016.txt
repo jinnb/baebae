@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11747200.0016.wav": "기네스북"
+}

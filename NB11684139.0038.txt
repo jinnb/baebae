@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11684139.0038.wav": "해석은"
+}

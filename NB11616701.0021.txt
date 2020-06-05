@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11616701.0021.wav": "나미야 싫어"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11718578.0047.wav": "그 10배로"
+}

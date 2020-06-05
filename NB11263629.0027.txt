@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11263629.0027.wav": "더구나 지금은"
+}

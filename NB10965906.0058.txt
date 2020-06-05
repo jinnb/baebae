@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10965906.0058.wav": "국민 여러분"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11655275.0016.wav": "당시만 해도"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10912494.0017.wav": "만기친람"
+}

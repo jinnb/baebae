@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11090424.0012.wav": "외로워"
+}

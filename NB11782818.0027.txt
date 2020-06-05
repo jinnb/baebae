@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11782818.0027.wav": "사용되고 있음"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11678190.0017.wav": "예전부터"
+}

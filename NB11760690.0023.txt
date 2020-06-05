@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11760690.0023.wav": "괴테"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11506279.0034.wav": "우리에게도"
+}

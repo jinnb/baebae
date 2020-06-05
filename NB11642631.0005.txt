@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11642631.0005.wav": "잔인하게 처형"
+}

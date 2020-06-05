@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11889229.0030.wav": "모두가"
+}

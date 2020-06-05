@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11231969.0023.wav": "와이로"
+}

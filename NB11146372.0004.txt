@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11146372.0004.wav": "다행히"
+}

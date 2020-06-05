@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11634589.0024.wav": "원형으로"
+}

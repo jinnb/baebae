@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11051799.0035.wav": "웹 번역"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11547236.0005.wav": "한자 그대로"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11743838.0036.wav": "앵커브리핑"
+}

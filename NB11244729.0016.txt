@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11244729.0016.wav": "아마도 일본어"
+}

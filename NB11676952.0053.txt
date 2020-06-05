@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11676952.0053.wav": "풀로 활용됐다"
+}

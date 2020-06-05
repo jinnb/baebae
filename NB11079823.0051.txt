@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11079823.0051.wav": "SNS 되기도 하니까"
+}

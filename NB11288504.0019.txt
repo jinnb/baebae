@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11288504.0019.wav": "햄버거"
+}

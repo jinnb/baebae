@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11533423.0021.wav": "안양역"
+}

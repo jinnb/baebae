@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11146372.0045.wav": "명예로운 일"
+}

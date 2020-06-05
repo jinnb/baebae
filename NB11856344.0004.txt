@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11856344.0004.wav": "윤고은의 소식"
+}

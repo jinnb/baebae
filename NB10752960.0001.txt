@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10752960.0001.wav": "줄"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11678190.0032.wav": "youtube 전해 드리는 소식에 따르면"
+}

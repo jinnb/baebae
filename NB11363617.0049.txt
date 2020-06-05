@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11363617.0049.wav": "속보가 없었어"
+}

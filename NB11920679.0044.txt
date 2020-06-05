@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11920679.0044.wav": "현대판"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11629019.0048.wav": "덕배"
+}

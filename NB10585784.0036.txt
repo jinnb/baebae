@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10585784.0036.wav": "0 번입니다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11728200.0007.wav": "그 손목시계"
+}

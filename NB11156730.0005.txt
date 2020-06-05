@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11156730.0005.wav": "지휘자"
+}

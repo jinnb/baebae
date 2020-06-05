@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11027869.0034.wav": "어찌 보면"
+}

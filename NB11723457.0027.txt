@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11723457.0027.wav": "구강암"
+}

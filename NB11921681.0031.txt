@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11921681.0031.wav": "환영 앱을"
+}

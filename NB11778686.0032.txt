@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11778686.0032.wav": "재난"
+}

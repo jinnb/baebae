@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11256503.0041.wav": "원해 보이기도"
+}

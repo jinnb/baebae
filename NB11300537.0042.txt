@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11300537.0042.wav": "쾌청"
+}

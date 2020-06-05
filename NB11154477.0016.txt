@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11154477.0016.wav": "셀프 부결 시켜"
+}

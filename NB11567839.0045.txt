@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11567839.0045.wav": "77만원 세대"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11355943.0016.wav": "끌어당김의"
+}

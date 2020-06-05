@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11821458.0050.wav": "노를 닮았던"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11734464.0041.wav": "기억한다"
+}

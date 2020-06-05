@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11666121.0025.wav": "일이 많아"
+}

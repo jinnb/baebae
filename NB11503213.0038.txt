@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11503213.0038.wav": "기도합니다"
+}

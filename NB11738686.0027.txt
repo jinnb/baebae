@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11738686.0027.wav": "회사의 자원"
+}

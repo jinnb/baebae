@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10664935.0029.wav": "닮아 있습니다"
+}

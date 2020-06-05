@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11179964.0013.wav": "잔잔한"
+}

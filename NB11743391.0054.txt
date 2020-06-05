@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11743391.0054.wav": "남겨 줘"
+}

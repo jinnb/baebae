@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11700003.0048.wav": "달이 참 밝네요"
+}

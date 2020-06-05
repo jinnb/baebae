@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11579782.0017.wav": "공정하다"
+}

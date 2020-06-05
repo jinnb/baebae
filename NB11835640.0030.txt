@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11835640.0030.wav": "실제 상황"
+}

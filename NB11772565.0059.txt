@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11772565.0059.wav": "목욕"
+}

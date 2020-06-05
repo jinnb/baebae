@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11254475.0048.wav": "어버이연합"
+}

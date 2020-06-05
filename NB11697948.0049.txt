@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11697948.0049.wav": "대화해"
+}

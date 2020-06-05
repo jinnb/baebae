@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11016515.0032.wav": "우리 역시이"
+}

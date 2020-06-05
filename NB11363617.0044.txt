@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11363617.0044.wav": "모든 평등의 뜻"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11303680.0057.wav": "할인하면"
+}

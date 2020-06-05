@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10620453.0018.wav": "OECD 평균이 5.3% 이니까"
+}

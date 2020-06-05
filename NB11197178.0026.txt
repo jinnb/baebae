@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11197178.0026.wav": "뚜껑이 아닌 탄"
+}

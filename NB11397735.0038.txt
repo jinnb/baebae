@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11397735.0038.wav": "현실이"
+}

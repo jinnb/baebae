@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11514537.0009.wav": "전라도 사투리"
+}

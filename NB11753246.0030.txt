@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11753246.0030.wav": "그날은 일이"
+}

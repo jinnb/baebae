@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11795760.0032.wav": "진심이었어"
+}

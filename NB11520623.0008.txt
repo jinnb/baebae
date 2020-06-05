@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11520623.0008.wav": "부정 채용했다"
+}

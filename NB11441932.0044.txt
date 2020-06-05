@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11441932.0044.wav": "마침내"
+}

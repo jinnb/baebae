@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11284438.0010.wav": "그 주변에 쳐 줘"
+}

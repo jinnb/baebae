@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10904960.0034.wav": "심지어"
+}

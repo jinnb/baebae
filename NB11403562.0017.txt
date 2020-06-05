@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11403562.0017.wav": "건희 맞서는 자"
+}

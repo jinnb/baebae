@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10949098.0025.wav": "가타카"
+}

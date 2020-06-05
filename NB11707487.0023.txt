@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11707487.0023.wav": "즉 운이 7이"
+}

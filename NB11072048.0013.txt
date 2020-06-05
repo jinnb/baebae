@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0013.wav": "너 일본어 사용"
+}

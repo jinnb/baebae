@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11207013.0003.wav": "라는 작품을"
+}

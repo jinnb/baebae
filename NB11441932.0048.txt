@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11441932.0048.wav": "나올 준비"
+}

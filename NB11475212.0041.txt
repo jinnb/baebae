@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11475212.0041.wav": "특수 한복"
+}

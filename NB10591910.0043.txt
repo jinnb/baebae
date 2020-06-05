@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10591910.0043.wav": "보내 문자"
+}

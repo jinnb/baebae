@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11769188.0023.wav": "작심한 듯"
+}

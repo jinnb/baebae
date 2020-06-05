@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11450494.0047.wav": "오로지"
+}

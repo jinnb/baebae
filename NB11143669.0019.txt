@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11143669.0019.wav": "이건 인간의"
+}

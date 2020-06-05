@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11007602.0048.wav": "콜하고"
+}

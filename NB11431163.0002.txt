@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11431163.0002.wav": "엄지 장갑"
+}

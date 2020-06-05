@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11055669.0008.wav": "붉은 것은"
+}

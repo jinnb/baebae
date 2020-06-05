@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11507621.0047.wav": "설사"
+}

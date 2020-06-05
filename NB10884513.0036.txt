@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10884513.0036.wav": "저는 직접"
+}

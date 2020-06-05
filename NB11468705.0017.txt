@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11468705.0017.wav": "금일봉을 돌려"
+}

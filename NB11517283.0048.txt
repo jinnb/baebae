@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11517283.0048.wav": "만 하루는"
+}

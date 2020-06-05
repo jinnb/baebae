@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10691612.0035.wav": "지록위마"
+}

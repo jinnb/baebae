@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11275345.0011.wav": "우대 알려 줘"
+}

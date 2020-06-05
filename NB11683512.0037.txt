@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11683512.0037.wav": "이번 정보"
+}

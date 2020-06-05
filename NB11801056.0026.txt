@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11801056.0026.wav": "후쿠시마의 물"
+}

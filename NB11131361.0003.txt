@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11131361.0003.wav": "준비했습니다"
+}

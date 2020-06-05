@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11742127.0051.wav": "우리의 연민은"
+}

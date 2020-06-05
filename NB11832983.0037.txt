@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11832983.0037.wav": "근영이"
+}

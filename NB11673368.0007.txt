@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11673368.0007.wav": "호주에게 때려"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11218010.0031.wav": "왜 그들은"
+}

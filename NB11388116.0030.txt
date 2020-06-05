@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11388116.0030.wav": "살아 있습니다"
+}

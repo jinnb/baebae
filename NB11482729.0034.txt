@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11482729.0034.wav": "밭의 주인은"
+}

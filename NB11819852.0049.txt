@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11819852.0049.wav": "오른손 오락실"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11596198.0038.wav": "징역 30년"
+}

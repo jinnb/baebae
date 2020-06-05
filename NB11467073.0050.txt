@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11467073.0050.wav": "더 힘이 난다"
+}

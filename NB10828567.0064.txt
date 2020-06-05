@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10828567.0064.wav": "호모욕쿠스"
+}

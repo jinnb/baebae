@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11326630.0023.wav": "외골수"
+}

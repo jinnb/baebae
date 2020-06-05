@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11476198.0054.wav": "다섯 배 크기"
+}

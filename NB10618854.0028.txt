@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10618854.0028.wav": "성경"
+}

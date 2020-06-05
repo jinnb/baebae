@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11497503.0029.wav": "이른바"
+}

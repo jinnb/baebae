@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11635912.0018.wav": "심성 관리를 해"
+}

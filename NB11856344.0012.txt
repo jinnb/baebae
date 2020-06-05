@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11856344.0012.wav": "할 때"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11743391.0023.wav": "라보떼라"
+}

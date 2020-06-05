@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11293323.0041.wav": "자야지"
+}

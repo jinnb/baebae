@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11288504.0031.wav": "절반 수준으로"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11295320.0025.wav": "정지"
+}

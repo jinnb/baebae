@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11627844.0048.wav": "허브랜드"
+}

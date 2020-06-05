@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11252950.0018.wav": "전국"
+}

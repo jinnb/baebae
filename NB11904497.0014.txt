@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11904497.0014.wav": "AI 와 드론이 득세하는 시대"
+}

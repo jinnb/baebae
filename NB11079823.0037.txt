@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11079823.0037.wav": "총을 꺼내 들고"
+}

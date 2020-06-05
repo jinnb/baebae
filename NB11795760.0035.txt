@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11795760.0035.wav": "같은 사람이야"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11700003.0054.wav": "평안한 취미"
+}

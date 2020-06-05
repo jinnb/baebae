@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10886115.0002.wav": "논란이 됐던"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11746703.0042.wav": "실격"
+}

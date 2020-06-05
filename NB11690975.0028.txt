@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11690975.0028.wav": "청주대 태권도"
+}

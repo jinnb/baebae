@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11230449.0019.wav": "네 살 태양의"
+}

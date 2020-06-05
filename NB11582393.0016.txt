@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11582393.0016.wav": "최대한"
+}

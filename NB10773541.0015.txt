@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10773541.0015.wav": "이렇게 강주룡"
+}

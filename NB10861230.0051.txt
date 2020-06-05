@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10861230.0051.wav": "자원외교 회사"
+}

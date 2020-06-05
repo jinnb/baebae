@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11067533.0047.wav": "일방적인"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11283172.0023.wav": "토끼라고 판"
+}

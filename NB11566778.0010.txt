@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11566778.0010.wav": "역대 최악의"
+}

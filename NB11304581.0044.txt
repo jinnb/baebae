@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11304581.0044.wav": "이렇게 말해"
+}

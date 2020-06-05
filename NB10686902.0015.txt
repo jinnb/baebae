@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10686902.0015.wav": "구혜선"
+}

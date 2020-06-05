@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11655275.0005.wav": "사자에게 전화"
+}

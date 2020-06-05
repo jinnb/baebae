@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11202948.0034.wav": "한국프로야구위원회 KBO 보다"
+}

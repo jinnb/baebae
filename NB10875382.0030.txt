@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10875382.0030.wav": "베버리지"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0043.wav": "이곳에서"
+}

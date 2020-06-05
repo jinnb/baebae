@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11290271.0023.wav": "아들"
+}

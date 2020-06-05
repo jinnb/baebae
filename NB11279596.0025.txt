@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11279596.0025.wav": "다음 증권"
+}

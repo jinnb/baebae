@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11672752.0012.wav": "곡 이름 불러"
+}

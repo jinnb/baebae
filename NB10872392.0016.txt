@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10872392.0016.wav": "내 꿈은 정규직"
+}

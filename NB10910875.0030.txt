@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10910875.0030.wav": "이틀 동안"
+}

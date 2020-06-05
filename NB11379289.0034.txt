@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11379289.0034.wav": "백옥주사"
+}

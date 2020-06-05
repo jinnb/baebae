@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11527407.0007.wav": "즐겨 부르던"
+}

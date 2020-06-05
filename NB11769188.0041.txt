@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11769188.0041.wav": "앞서 전해드린"
+}

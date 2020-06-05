@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11185533.0044.wav": "더 높아집니다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11207013.0030.wav": "결심했습니다"
+}

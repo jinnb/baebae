@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11263629.0008.wav": "얼굴을"
+}

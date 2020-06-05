@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11579782.0043.wav": "JTBC 권석천 기자"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11559716.0053.wav": "모든"
+}

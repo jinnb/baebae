@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11584106.0016.wav": "명예훼손 소송"
+}

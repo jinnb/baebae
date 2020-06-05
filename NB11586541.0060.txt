@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11586541.0060.wav": "너무 밝아"
+}

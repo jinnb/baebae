@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10857790.0004.wav": "가로 8.6m에 높이는"
+}

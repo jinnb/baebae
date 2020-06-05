@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11576061.0044.wav": "고민 station"
+}

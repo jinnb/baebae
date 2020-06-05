@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10930500.0001.wav": "김용갑 전의원"
+}

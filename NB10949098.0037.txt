@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10949098.0037.wav": "전공 성향 맞아"
+}

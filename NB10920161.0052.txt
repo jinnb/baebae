@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10920161.0052.wav": "자기 의견을"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10588435.0014.wav": "조금 전에"
+}

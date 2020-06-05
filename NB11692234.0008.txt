@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11692234.0008.wav": "돈이 있고 없고"
+}

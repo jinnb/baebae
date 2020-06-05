@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11125360.0000.wav": "뉴스룸"
+}

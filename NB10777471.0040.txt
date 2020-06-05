@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10777471.0040.wav": "잘 가라 담배"
+}

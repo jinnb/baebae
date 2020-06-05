@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11261145.0042.wav": "삶은 팍팍 해 줘"
+}

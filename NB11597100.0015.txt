@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11597100.0015.wav": "일제 강점기"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11593698.0036.wav": "받침"
+}

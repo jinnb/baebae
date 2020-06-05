@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11240214.0009.wav": "커집니다"
+}

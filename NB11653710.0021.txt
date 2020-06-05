@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11653710.0021.wav": "곰돌이"
+}

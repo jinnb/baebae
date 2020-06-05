@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10710213.0001.wav": "김삼순"
+}

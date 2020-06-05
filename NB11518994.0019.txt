@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11518994.0019.wav": "마광수"
+}

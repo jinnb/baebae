@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11911437.0031.wav": "금원"
+}

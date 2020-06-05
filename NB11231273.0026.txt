@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11231273.0026.wav": "브라질의 수도"
+}

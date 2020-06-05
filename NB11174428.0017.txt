@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11174428.0017.wav": "설화로"
+}

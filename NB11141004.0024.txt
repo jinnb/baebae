@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11141004.0024.wav": "JTBC가 앞장서서 몸에 해달라는 부탁 잊었지"
+}

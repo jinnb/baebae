@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11188501.0022.wav": "만 원권 지폐"
+}

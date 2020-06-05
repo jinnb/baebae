@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11831757.0035.wav": "김대중"
+}

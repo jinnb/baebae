@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11688041.0002.wav": "과거 외국에"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11688041.0047.wav": "초라한 단어"
+}

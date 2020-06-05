@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11521571.0010.wav": "공룡의 크기를"
+}

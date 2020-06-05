@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11732226.0041.wav": "술이란"
+}

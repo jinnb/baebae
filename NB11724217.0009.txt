@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11724217.0009.wav": "과거시험"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11496964.0008.wav": "틀려 보냈다고"
+}

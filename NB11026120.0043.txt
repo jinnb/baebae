@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11026120.0043.wav": "국가도 아니요"
+}

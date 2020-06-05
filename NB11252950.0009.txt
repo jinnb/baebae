@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11252950.0009.wav": "각 정당에 대한"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11547236.0041.wav": "crop는 19연 안개는"
+}

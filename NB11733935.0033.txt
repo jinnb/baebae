@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11733935.0033.wav": "디지털 원 시세"
+}

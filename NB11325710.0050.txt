@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11325710.0050.wav": "그러나 왜 인사"
+}

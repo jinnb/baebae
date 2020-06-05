@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11122836.0006.wav": "자연이"
+}

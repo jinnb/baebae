@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11478703.0014.wav": "역설적이게도"
+}

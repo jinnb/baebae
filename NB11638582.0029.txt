@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11638582.0029.wav": "소년"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11802340.0047.wav": "콜라가 필요해"
+}

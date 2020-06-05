@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0013.wav": "아리가또"
+}

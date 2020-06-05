@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10993409.0046.wav": "매우"
+}

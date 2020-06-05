@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11287675.0056.wav": "이쯤에서"
+}

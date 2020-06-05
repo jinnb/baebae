@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11702006.0059.wav": "창조적 힘을"
+}

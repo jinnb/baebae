@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10920161.0051.wav": "명확하게"
+}

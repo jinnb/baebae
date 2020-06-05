@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11586031.0012.wav": "미국인 영국인"
+}

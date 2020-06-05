@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11236651.0026.wav": "기름진 단어"
+}

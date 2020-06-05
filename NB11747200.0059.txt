@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11747200.0059.wav": "가벼운 아이"
+}

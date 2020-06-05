@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11517283.0009.wav": "뜨거워"
+}

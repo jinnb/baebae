@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10923518.0024.wav": "식물 좀비"
+}

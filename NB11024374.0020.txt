@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11024374.0020.wav": "무석 번호"
+}

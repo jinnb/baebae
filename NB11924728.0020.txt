@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924728.0020.wav": "노동자 밤에"
+}

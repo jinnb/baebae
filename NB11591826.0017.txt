@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11591826.0017.wav": "집행 유예"
+}

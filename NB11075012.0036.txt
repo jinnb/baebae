@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11075012.0036.wav": "동심"
+}

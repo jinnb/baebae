@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10595786.0046.wav": "꺼내볼 fake"
+}

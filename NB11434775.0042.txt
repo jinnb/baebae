@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11434775.0042.wav": "자전과 금지"
+}

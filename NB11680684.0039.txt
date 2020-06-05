@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11680684.0039.wav": "늘 전원 일하고"
+}

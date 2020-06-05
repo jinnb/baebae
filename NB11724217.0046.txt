@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11724217.0046.wav": "수능 시험"
+}

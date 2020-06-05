@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11010194.0017.wav": "어제"
+}

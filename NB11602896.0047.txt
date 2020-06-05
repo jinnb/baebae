@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11602896.0047.wav": "졸업을 이야기"
+}

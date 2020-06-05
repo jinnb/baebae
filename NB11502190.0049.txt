@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11502190.0049.wav": "소라나라"
+}

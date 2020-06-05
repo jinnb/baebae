@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10696554.0037.wav": "기진맥진"
+}

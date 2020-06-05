@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11073530.0012.wav": "잘 모름"
+}

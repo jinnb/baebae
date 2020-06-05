@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0006.wav": "임금은"
+}

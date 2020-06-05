@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11452400.0004.wav": "긁적였다"
+}

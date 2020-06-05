@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11226523.0052.wav": "기껏해야"
+}

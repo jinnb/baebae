@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10868977.0045.wav": "이렇습니다"
+}

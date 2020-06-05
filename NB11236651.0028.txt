@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11236651.0028.wav": "케이블"
+}

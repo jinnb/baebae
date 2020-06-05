@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11216360.0035.wav": "국민을"
+}

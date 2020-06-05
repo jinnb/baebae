@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11789875.0022.wav": "그에 못지 않게"
+}

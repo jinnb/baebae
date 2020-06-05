@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10766785.0030.wav": "명확합니다"
+}

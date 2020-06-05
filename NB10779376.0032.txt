@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10779376.0032.wav": "옛날 말로 승진"
+}

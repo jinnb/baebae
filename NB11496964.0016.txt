@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11496964.0016.wav": "3초 했다"
+}

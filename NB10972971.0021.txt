@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10972971.0021.wav": "노동개혁"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10875382.0020.wav": "삼 식상한 얘기"
+}

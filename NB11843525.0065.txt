@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11843525.0065.wav": "집이요"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11662452.0019.wav": "개업용 하이"
+}

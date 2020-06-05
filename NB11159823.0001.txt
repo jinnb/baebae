@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11159823.0001.wav": "땅에서 태어나"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11850121.0022.wav": "보관 중인"
+}

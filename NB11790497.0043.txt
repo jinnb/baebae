@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11790497.0043.wav": "오히려"
+}

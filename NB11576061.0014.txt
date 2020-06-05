@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11576061.0014.wav": "근면함과"
+}

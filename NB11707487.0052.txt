@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11707487.0052.wav": "신묘한"
+}

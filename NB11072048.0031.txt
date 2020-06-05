@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0031.wav": "반상회에서"
+}

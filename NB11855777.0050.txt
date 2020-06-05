@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11855777.0050.wav": "포경 받고"
+}

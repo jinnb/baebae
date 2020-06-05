@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11209399.0021.wav": "문을 닫습니다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11584106.0043.wav": "제자였습니다"
+}

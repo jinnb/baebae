@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11518994.0025.wav": "뒤늦게"
+}

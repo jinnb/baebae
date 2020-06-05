@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11475709.0018.wav": "하마다네 명"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11460357.0007.wav": "김영삼 후보만"
+}

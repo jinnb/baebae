@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11610307.0032.wav": "굶고 있어"
+}

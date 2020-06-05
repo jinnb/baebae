@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11817327.0026.wav": "막대 했습니다"
+}

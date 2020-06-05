@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11154477.0002.wav": "귀를 가지고"
+}

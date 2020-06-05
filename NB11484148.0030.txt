@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11484148.0030.wav": "통역관"
+}

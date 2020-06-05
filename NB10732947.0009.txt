@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10732947.0009.wav": "아파트입니다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11671269.0006.wav": "노무현 후보"
+}

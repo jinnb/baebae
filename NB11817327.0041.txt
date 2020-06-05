@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11817327.0041.wav": "글 쓸 때는 그죠"
+}

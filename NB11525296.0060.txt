@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11525296.0060.wav": "볼 수 없었어"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11642631.0042.wav": "기꺼이 인정함"
+}

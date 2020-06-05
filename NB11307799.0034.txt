@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11307799.0034.wav": "1세대 사회학자인 송복 교수 MRI"
+}

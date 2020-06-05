@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11922160.0015.wav": "대구 빌딩"
+}

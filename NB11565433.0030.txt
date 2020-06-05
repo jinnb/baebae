@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11565433.0030.wav": "급해 올랐던"
+}

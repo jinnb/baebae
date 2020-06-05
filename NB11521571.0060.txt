@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11521571.0060.wav": "승"
+}

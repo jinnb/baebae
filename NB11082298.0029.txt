@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11082298.0029.wav": "그거 프랑스어"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11136278.0007.wav": "IMF 사태를 어느정도 극복하고"
+}

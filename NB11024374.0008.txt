@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11024374.0008.wav": "화폐 즉 돈은"
+}

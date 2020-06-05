@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11758166.0013.wav": "궁금증에 틀기"
+}

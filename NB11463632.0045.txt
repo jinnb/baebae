@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11463632.0045.wav": "누군가에게는"
+}

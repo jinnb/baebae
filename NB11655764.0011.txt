@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11655764.0011.wav": "여왕 폐하"
+}

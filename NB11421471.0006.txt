@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11421471.0006.wav": "스테로이드"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11801644.0006.wav": "우리말로"
+}

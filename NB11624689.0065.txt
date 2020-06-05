@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11624689.0065.wav": "궁금한"
+}

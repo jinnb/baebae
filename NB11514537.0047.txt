@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11514537.0047.wav": "디자인"
+}

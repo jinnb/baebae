@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11702006.0012.wav": "레슨"
+}

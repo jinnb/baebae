@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11507963.0050.wav": "굵고 거센 비가"
+}

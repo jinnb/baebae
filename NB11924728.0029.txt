@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924728.0029.wav": "법정에서"
+}

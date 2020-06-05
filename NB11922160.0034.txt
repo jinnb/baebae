@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11922160.0034.wav": "영력의 주인공"
+}

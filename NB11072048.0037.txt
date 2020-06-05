@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0037.wav": "한미 FTA"
+}

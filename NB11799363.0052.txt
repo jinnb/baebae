@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11799363.0052.wav": "머나먼 우주의"
+}

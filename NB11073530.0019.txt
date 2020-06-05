@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11073530.0019.wav": "선택했습니다"
+}

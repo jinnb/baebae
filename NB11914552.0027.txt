@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11914552.0027.wav": "화재 갔다"
+}

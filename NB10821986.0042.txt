@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10821986.0042.wav": "눈이 내린다"
+}

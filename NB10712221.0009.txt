@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10712221.0009.wav": "학자금대출과"
+}

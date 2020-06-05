@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11782144.0032.wav": "그 증상은"
+}

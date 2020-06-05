@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11508907.0058.wav": "양지 회사"
+}

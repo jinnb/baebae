@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11591826.0054.wav": "얼마나"
+}

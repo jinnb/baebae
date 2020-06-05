@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11564962.0038.wav": "칼럼니스트"
+}

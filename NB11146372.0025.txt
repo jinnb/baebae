@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11146372.0025.wav": "7%가 넘는"
+}

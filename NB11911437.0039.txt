@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11911437.0039.wav": "공평하지도"
+}

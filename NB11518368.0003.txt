@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11518368.0003.wav": "이 영화의 감독인 최승호 전 MBC PD"
+}

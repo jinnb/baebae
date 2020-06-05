@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11287675.0025.wav": "요즘으로 치면"
+}

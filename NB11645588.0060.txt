@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11645588.0060.wav": "대답"
+}

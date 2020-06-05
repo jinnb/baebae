@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11487529.0002.wav": "정치 초보는"
+}

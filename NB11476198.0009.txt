@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11476198.0009.wav": "한글자당 크기가 불과 1mm"
+}

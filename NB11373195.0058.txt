@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11373195.0058.wav": "다른 점을"
+}

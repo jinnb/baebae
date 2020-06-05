@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11749369.0017.wav": "두루마리 천"
+}

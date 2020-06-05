@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11603407.0042.wav": "English"
+}

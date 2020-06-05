@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11743391.0016.wav": "적어도"
+}

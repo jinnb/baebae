@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11373195.0054.wav": "가난한 자의"
+}

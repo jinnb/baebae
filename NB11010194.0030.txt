@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11010194.0030.wav": "법률 의료"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11888792.0051.wav": "권력자 읽어 줘"
+}

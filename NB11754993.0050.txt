@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11754993.0050.wav": "저는 진심으로"
+}

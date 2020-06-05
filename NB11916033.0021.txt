@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11916033.0021.wav": "현대 사람들은"
+}

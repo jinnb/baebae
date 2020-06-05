@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11582393.0007.wav": "30회 가까이"
+}

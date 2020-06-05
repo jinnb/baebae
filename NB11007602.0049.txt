@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11007602.0049.wav": "토론하면서"
+}

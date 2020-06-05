@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11434775.0031.wav": "법도 한"
+}

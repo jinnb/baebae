@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11707487.0030.wav": "똑같은 단어가"
+}

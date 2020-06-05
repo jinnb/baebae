@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10861230.0042.wav": "할 거 없다"
+}

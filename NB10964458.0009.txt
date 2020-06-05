@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10964458.0009.wav": "고개를 숙인"
+}

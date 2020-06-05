@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11304581.0015.wav": "누구도"
+}

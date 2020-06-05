@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11750942.0035.wav": "받아들이지 마"
+}

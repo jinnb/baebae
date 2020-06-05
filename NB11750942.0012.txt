@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11750942.0012.wav": "보다 정확히는"
+}

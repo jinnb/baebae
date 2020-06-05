@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11593698.0037.wav": "콘돔"
+}

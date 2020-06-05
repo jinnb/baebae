@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11769901.0034.wav": "유명인의"
+}

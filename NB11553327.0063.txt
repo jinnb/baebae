@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11553327.0063.wav": "쇠비름 애를"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11199999.0026.wav": "길들이지"
+}

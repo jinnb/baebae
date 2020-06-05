@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11188501.0026.wav": "개성공단"
+}

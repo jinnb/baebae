@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11199044.0012.wav": "하이 전투에서"
+}

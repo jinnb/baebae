@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10726564.0029.wav": "사투리는"
+}

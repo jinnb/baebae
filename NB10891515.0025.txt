@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10891515.0025.wav": "안 치자"
+}

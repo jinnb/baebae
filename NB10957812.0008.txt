@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10957812.0008.wav": "최성 50억원"
+}

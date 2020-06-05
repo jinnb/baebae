@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11472606.0043.wav": "같은 날"
+}

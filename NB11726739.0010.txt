@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11726739.0010.wav": "규림"
+}

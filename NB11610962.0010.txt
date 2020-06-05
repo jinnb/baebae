@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11610962.0010.wav": "이야기"
+}

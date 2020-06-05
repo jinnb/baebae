@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11024374.0033.wav": "빚은 정말"
+}

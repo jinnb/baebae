@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10810019.0030.wav": "방백"
+}

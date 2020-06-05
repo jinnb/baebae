@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11408665.0038.wav": "법을 초월한"
+}

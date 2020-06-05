@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11702006.0035.wav": "광장에서"
+}

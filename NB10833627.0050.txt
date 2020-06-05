@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10833627.0050.wav": "눈물 나는 단어"
+}

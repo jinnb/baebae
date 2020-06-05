@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11553327.0057.wav": "지워진 카드"
+}

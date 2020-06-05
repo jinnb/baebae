@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11895126.0023.wav": "3이 처자 간극"
+}

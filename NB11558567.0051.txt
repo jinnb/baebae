@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11558567.0051.wav": "사슴"
+}

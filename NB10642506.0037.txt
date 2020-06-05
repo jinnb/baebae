@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10642506.0037.wav": "저층 고민 끝에"
+}

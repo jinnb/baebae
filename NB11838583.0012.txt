@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11838583.0012.wav": "인간이내는"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11024374.0005.wav": "기술 진단은"
+}

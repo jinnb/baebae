@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11831757.0022.wav": "거의 한 마디도"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11920185.0012.wav": "들어가"
+}

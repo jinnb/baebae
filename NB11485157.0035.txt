@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11485157.0035.wav": "틀림 없습니다"
+}

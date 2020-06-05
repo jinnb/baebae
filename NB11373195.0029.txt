@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11373195.0029.wav": "밖으로 꺼내 놔"
+}

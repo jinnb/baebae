@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11747200.0012.wav": "길게 손톱 길이"
+}

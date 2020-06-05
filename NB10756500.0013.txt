@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10756500.0013.wav": "아가씨"
+}

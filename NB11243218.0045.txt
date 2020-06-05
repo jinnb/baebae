@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11243218.0045.wav": "국민 의무 뉴스"
+}

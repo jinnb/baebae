@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11920679.0034.wav": "싫은데 그것이"
+}

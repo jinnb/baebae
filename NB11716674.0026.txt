@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11716674.0026.wav": "입원 치료"
+}

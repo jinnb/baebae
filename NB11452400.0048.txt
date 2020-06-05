@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11452400.0048.wav": "가슴이 시려서"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11700003.0009.wav": "홈"
+}

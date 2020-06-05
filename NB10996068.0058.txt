@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10996068.0058.wav": "광복 70주년"
+}

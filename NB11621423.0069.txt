@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11621423.0069.wav": "넓은"
+}

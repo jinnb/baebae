@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11726739.0033.wav": "쪽으로 날아가"
+}

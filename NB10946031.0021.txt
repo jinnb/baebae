@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10946031.0021.wav": "GP 허리 굽혀 사과했지만"
+}

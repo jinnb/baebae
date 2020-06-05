@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11927034.0032.wav": "stork"
+}

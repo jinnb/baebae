@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11143669.0025.wav": "당연합니다"
+}

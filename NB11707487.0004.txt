@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11707487.0004.wav": "기억하신 것처럼 그는 당시 BBK"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11627291.0057.wav": "대구"
+}

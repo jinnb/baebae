@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11688555.0058.wav": "이 말이 아닐까"
+}

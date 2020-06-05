@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11848150.0035.wav": "태양의 기도해"
+}

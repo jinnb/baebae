@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11828016.0035.wav": "아이러니"
+}

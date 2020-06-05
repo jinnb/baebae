@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11925852.0021.wav": "김치와 생수"
+}

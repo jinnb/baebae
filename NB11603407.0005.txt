@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11603407.0005.wav": "그 호킹 지수는"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10938971.0037.wav": "아마도"
+}

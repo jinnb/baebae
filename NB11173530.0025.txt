@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11173530.0025.wav": "기업인들 역시"
+}

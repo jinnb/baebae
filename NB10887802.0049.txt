@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10887802.0049.wav": "장흥"
+}

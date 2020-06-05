@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10672509.0004.wav": "인심도 좋고"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11811801.0037.wav": "운이라는 것이"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11495987.0004.wav": "작업을 마쳐"
+}

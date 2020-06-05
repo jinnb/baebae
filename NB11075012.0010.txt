@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11075012.0010.wav": "누구의 편이냐"
+}

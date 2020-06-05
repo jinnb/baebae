@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11231969.0006.wav": "명절이 되잖아"
+}

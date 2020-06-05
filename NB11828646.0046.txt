@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11828646.0046.wav": "오늘의"
+}

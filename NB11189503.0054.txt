@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11189503.0054.wav": "인정하는"
+}

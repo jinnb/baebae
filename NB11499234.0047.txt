@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11499234.0047.wav": "돌이켜보면"
+}

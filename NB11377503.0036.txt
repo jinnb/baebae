@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11377503.0036.wav": "외국 할 수 없는"
+}

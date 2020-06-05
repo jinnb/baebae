@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11243896.0035.wav": "한국사"
+}

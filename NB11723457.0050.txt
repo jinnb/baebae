@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11723457.0050.wav": "바깥에"
+}

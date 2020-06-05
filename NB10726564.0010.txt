@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10726564.0010.wav": "주목했습니다"
+}

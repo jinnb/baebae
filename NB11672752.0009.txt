@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11672752.0009.wav": "슬퍼 슈타인"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11606375.0008.wav": "헤르메스"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11681033.0005.wav": "붉은점의"
+}

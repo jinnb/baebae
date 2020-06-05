@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11506279.0042.wav": "네팔의 청년도"
+}

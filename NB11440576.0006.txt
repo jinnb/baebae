@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11440576.0006.wav": "사적 영역 이거"
+}

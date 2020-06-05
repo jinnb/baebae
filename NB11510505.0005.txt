@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11510505.0005.wav": "하얀 가루에 살충제 DDT"
+}

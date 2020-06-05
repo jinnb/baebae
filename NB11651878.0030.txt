@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11651878.0030.wav": "Google find로 축구 하는 천안 노마가 아닌"
+}

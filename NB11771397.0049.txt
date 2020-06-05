@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11771397.0049.wav": "태극기의 정신"
+}

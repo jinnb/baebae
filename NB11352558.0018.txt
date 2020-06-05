@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11352558.0018.wav": "영혼을 믿고"
+}

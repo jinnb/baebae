@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11452400.0008.wav": "마감하는"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11831261.0018.wav": "훨씬 이전에"
+}

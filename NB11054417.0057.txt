@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11054417.0057.wav": "그 원시 the 아쉽긴 하지만"
+}

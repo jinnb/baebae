@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11300537.0006.wav": "53년 전에"
+}

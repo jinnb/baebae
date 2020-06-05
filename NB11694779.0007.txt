@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11694779.0007.wav": "솔직하다"
+}

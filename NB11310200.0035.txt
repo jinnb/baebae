@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11310200.0035.wav": "낮고 침착한"
+}

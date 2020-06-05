@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10891515.0012.wav": "이것들이 눈에"
+}

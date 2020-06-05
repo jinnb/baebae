@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11602343.0032.wav": "날카로운"
+}

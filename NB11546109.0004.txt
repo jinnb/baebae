@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11546109.0004.wav": "강원랜드"
+}

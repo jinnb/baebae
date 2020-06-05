@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11666121.0040.wav": "최저임금 만원"
+}

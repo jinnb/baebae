@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11097133.0007.wav": "고양이도"
+}

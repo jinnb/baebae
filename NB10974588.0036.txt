@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10974588.0036.wav": "바야흐로"
+}

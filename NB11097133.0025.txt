@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11097133.0025.wav": "총 보다"
+}

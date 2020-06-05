@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11627844.0010.wav": "귀여운 공격성"
+}

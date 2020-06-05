@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11583475.0027.wav": "설교를 통해서"
+}

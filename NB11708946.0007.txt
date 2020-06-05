@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11708946.0007.wav": "중국의 고전"
+}

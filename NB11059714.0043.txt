@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11059714.0043.wav": "아이들 손"
+}

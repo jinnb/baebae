@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11259128.0040.wav": "전액 삭감 한 것"
+}

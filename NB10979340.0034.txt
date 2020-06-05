@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10979340.0034.wav": "우리나라를"
+}

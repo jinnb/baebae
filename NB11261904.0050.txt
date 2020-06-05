@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11261904.0050.wav": "duration of freedom"
+}

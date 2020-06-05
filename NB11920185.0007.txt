@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11920185.0007.wav": "복선 적이 없고"
+}

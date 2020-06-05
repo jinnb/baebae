@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11430611.0023.wav": "겨울이야"
+}

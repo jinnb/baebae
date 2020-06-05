@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10848367.0035.wav": "보냈습니다"
+}

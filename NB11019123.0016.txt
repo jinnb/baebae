@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11019123.0016.wav": "소득은 줄었고"
+}

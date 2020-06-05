@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11772565.0049.wav": "어릴적 목욕탕"
+}

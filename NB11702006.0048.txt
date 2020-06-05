@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11702006.0048.wav": "염색을 하다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11911437.0038.wav": "교과서처럼"
+}

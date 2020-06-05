@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11674590.0026.wav": "공공연한"
+}

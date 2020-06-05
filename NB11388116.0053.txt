@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11388116.0053.wav": "내년에도"
+}

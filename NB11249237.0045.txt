@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11249237.0045.wav": "예쁜 분"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10668183.0015.wav": "듬직한 남편"
+}

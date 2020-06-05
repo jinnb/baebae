@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11896542.0041.wav": "창부가 되었다"
+}

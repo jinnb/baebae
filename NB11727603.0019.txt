@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11727603.0019.wav": "이런 욕은"
+}

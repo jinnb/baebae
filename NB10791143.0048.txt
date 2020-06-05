@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10791143.0048.wav": "그리고 커튼이"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10940618.0007.wav": "42번 확진자"
+}

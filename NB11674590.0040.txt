@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11674590.0040.wav": "펄펄 끓는 더위"
+}

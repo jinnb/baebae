@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11732226.0014.wav": "제사용 술자리"
+}

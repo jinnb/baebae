@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11606375.0005.wav": "손에는 뱀과"
+}

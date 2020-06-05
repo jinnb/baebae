@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11604953.0046.wav": "여론의 외국인"
+}

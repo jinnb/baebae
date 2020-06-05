@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11473744.0026.wav": "젊은 올려"
+}

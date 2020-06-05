@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11302792.0009.wav": "전혜진"
+}

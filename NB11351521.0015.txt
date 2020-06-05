@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11351521.0015.wav": "한자가 아니라"
+}

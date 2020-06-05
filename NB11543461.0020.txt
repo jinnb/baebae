@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11543461.0020.wav": "딱 한 명 남았어"
+}

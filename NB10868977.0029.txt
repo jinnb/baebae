@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10868977.0029.wav": "화남 역시"
+}

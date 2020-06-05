@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10629447.0023.wav": "어"
+}

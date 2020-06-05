@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11392034.0051.wav": "거짓은 결코"
+}

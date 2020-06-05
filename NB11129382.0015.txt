@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11129382.0015.wav": "97년 대선에서는 DJ DOC에 노래가 디젤을 띄었고"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11540797.0062.wav": "이토 히로부미"
+}

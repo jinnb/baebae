@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11906584.0035.wav": "물론"
+}

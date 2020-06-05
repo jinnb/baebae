@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924728.0039.wav": "본질적인 질문"
+}

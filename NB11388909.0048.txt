@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11388909.0048.wav": "새날이"
+}

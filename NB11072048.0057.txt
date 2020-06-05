@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0057.wav": "흑백 사진 속"
+}

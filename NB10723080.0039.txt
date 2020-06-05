@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10723080.0039.wav": "혼혈아"
+}

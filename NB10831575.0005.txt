@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10831575.0005.wav": "지우개"
+}

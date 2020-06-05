@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10949098.0001.wav": "업종에 맞게"
+}

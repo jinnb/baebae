@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11491536.0023.wav": "대상은"
+}

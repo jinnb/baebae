@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11658625.0006.wav": "아빠가 운다"
+}

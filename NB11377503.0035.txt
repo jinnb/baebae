@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11377503.0035.wav": "바꿀 수도"
+}

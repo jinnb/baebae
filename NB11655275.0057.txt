@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11655275.0057.wav": "저와의 인터뷰에서 DJ가 했다"
+}

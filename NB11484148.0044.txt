@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11484148.0044.wav": "타인의 고통"
+}

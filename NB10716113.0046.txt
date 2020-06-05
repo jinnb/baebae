@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10716113.0046.wav": "뺐습니다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11502693.0006.wav": "귀요미"
+}

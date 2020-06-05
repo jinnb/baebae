@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10777471.0034.wav": "외상 말로"
+}

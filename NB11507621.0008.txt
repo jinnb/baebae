@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11507621.0008.wav": "저는 겨울만큼"
+}

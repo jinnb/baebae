@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10808324.0038.wav": "큰 소리 때문에"
+}

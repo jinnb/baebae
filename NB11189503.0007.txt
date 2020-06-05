@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11189503.0007.wav": "흩어질 만"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11846201.0036.wav": "경제보복"
+}

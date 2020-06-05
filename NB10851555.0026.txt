@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10851555.0026.wav": "펄럭입니다"
+}

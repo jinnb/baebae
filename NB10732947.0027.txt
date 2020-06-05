@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10732947.0027.wav": "높을수록"
+}

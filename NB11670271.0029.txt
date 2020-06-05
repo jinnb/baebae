@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11670271.0029.wav": "반올림"
+}

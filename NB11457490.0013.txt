@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11457490.0013.wav": "보물 화나게"
+}

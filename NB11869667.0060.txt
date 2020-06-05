@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11869667.0060.wav": "사각의 봉기가"
+}

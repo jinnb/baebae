@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0047.wav": "홍이 아니"
+}

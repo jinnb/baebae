@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10622041.0040.wav": "우리의 삶을"
+}

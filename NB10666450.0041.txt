@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10666450.0041.wav": "큰 재물이다"
+}

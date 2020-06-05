@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10600918.0007.wav": "영대 식당"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11662452.0049.wav": "바르지 않아"
+}

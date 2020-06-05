@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11525296.0047.wav": "주인공 그 자신"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11249237.0022.wav": "공교롭게도"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924268.0037.wav": "호"
+}

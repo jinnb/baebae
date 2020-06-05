@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11373195.0052.wav": "불경에 나오는"
+}

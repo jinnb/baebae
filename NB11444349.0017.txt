@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11444349.0017.wav": "화학의 법칙"
+}

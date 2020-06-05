@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0041.wav": "선임 정보들이"
+}

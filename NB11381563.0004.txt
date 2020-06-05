@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11381563.0004.wav": "배 등화 시켜서"
+}

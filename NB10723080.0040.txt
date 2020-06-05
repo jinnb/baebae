@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10723080.0040.wav": "외국인 노동자"
+}

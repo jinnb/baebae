@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11382419.0008.wav": "교양 있고"
+}

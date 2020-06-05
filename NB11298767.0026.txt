@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11298767.0026.wav": "중용하고"
+}

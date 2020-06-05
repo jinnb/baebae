@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11479150.0027.wav": "모든 판검사가"
+}

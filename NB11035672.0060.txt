@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11035672.0060.wav": "오경희 누구냐"
+}

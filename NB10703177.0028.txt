@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10703177.0028.wav": "만드로"
+}

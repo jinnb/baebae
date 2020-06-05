@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10648120.0042.wav": "세월호"
+}

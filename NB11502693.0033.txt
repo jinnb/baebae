@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11502693.0033.wav": "요지는 한겨레"
+}

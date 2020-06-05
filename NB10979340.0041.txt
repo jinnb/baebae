@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10979340.0041.wav": "워싱턴 해"
+}

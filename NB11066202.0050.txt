@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11066202.0050.wav": "아트릭스 틀어"
+}

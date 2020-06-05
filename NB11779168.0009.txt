@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11779168.0009.wav": "고려대"
+}

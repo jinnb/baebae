@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11719166.0034.wav": "명료했다"
+}

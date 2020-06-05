@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11484630.0028.wav": "화실"
+}

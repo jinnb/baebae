@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11388116.0006.wav": "자그마한 소녀상 no"
+}

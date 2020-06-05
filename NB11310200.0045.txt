@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11310200.0045.wav": "정의로운"
+}

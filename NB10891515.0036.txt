@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10891515.0036.wav": "단어"
+}

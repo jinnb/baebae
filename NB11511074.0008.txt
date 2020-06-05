@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11511074.0008.wav": "지금도 생생한"
+}

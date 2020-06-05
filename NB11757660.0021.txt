@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11757660.0021.wav": "공감했습니다"
+}

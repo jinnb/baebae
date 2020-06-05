@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11473744.0036.wav": "엎어치는"
+}

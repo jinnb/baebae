@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11493017.0048.wav": "사회학적 무게"
+}

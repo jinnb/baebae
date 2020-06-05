@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11708292.0015.wav": "벌어지기도"
+}

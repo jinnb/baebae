@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11754993.0026.wav": "심석희 선수"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924728.0042.wav": "바로 황금수저"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11657037.0064.wav": "끝이 좋으면"
+}

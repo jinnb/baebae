@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11747200.0047.wav": "하필"
+}

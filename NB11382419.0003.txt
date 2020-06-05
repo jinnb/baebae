@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11382419.0003.wav": "제게 말해 줘"
+}

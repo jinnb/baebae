@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10633045.0023.wav": "우정잉"
+}

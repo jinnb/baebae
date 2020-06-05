@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11508907.0007.wav": "사상 최초로"
+}

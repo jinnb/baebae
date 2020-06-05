@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11174428.0018.wav": "곤욕을 치렀다"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10666450.0026.wav": "연천"
+}

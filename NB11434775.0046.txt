@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11434775.0046.wav": "새겨질 것이다"
+}

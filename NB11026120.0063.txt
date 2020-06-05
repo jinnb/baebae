@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11026120.0063.wav": "계속해 보게"
+}

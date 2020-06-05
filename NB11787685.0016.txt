@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11787685.0016.wav": "친일파"
+}

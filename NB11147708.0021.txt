@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11147708.0021.wav": "내부에서조차"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11288504.0006.wav": "몇 시간"
+}

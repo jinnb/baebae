@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11218905.0026.wav": "한 사람당"
+}

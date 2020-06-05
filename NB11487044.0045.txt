@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11487044.0045.wav": "병행합니다"
+}

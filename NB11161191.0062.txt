@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11161191.0062.wav": "돌아간"
+}

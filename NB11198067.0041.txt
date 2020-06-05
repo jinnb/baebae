@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11198067.0041.wav": "자녀학비"
+}

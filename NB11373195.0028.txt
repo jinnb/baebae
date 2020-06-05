@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11373195.0028.wav": "이 누르면"
+}

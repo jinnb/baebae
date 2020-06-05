@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11326630.0053.wav": "전화"
+}

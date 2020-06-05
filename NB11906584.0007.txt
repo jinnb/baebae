@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11906584.0007.wav": "닫힙니다"
+}

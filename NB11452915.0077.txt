@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11452915.0077.wav": "앵커"
+}

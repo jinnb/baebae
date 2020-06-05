@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11163566.0048.wav": "국민교육헌장"
+}

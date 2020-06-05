@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924497.0003.wav": "국회 본회의에"
+}

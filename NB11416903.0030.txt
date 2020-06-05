@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11416903.0030.wav": "자격이 있는가"
+}

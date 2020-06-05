@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11719166.0021.wav": "10만여명"
+}

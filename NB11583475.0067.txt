@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11583475.0067.wav": "아골골짜기"
+}

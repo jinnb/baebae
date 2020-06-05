@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11724959.0029.wav": "그보다 10년을 앞섰던 las 모근"
+}

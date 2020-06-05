@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10831575.0006.wav": "가격은"
+}

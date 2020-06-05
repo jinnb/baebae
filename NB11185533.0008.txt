@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11185533.0008.wav": "카톡 발송"
+}

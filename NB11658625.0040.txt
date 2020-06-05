@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11658625.0040.wav": "밤에 장점은"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11862160.0050.wav": "그리고 굿나잇"
+}

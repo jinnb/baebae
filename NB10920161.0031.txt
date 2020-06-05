@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10920161.0031.wav": "포스코 미다"
+}

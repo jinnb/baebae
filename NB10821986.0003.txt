@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10821986.0003.wav": "말이 쉽게이지"
+}

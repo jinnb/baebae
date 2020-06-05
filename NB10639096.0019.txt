@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10639096.0019.wav": "미칠 것 같아"
+}

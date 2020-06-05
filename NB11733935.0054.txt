@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11733935.0054.wav": "EBS대 정도에서"
+}

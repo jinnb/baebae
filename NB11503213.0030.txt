@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11503213.0030.wav": "이재용 부회장"
+}

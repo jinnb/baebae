@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11022767.0045.wav": "아름다운 것은"
+}

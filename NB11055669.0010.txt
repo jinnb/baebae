@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11055669.0010.wav": "괴다"
+}

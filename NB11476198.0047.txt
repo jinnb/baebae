@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11476198.0047.wav": "글자 크기 1mm는"
+}

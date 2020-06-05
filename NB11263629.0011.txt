@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11263629.0011.wav": "조금씩 조금씩"
+}

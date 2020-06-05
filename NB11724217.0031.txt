@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11724217.0031.wav": "대학 시험으로"
+}

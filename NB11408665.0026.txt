@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11408665.0026.wav": "앞서 언급한"
+}

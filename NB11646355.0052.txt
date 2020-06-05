@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11646355.0052.wav": "바람도"
+}

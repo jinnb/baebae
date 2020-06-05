@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11473744.0031.wav": "기자 드렸어"
+}

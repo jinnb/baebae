@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11585527.0035.wav": "승소 하기에"
+}

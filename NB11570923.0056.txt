@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11570923.0056.wav": "바지저고리"
+}

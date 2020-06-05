@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11208640.0009.wav": "찬송 그냥 동글"
+}

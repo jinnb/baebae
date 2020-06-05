@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11485640.0024.wav": "배우가 됐고"
+}

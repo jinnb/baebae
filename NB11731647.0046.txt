@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11731647.0046.wav": "정의를"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11869667.0056.wav": "불매운동"
+}

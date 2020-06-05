@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10910875.0005.wav": "번역의 날이야"
+}

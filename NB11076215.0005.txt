@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11076215.0005.wav": "물론이 질문은"
+}

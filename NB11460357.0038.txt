@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11460357.0038.wav": "어제 JTBC가 주최한 후보 토론 있었습니다"
+}

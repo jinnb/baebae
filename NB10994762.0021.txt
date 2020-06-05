@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10994762.0021.wav": "확성기"
+}

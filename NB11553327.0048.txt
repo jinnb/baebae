@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11553327.0048.wav": "익히 알고 있는"
+}

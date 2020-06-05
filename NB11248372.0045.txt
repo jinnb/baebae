@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11248372.0045.wav": "사용을 금하고"
+}

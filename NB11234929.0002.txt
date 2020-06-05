@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11234929.0002.wav": "광주역"
+}

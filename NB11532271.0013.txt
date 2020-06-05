@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11532271.0013.wav": "작가 루시는"
+}

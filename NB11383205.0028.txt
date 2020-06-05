@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11383205.0028.wav": "햄릿의 그 유명한 대사 To be or not to be"
+}

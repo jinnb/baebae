@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11924728.0037.wav": "사람들은"
+}

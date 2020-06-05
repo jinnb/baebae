@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11283741.0050.wav": "바라건대는"
+}

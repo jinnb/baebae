@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11576061.0018.wav": "3way 레온 그가 매일 복권을 한 장"
+}

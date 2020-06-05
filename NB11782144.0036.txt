@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11782144.0036.wav": "라쇼"
+}

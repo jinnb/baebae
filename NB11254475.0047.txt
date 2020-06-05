@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11254475.0047.wav": "홍만표 진경준"
+}

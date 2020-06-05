@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11724217.0030.wav": "과거 시험을"
+}

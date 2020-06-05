@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11517283.0008.wav": "갑자기"
+}

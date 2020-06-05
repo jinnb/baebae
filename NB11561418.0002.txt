@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11561418.0002.wav": "장면입니다"
+}

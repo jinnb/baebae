@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11122836.0065.wav": "지친 사람들은"
+}

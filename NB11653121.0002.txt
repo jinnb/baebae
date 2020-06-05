@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11653121.0002.wav": "8점짜리"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11702006.0069.wav": "온대 일단"
+}

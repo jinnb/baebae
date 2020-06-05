@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11774475.0021.wav": "웨이트로"
+}

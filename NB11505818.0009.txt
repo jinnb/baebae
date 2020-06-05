@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11505818.0009.wav": "참여자와 관찰"
+}

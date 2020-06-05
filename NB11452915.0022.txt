@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11452915.0022.wav": "같은 조가 돼서"
+}

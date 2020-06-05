@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11350574.0045.wav": "민주주의"
+}

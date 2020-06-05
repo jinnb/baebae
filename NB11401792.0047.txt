@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11401792.0047.wav": "옮기지 않았어"
+}

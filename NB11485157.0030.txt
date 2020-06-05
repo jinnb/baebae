@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11485157.0030.wav": "상스러운 말"
+}

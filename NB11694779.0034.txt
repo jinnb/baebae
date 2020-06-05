@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11694779.0034.wav": "메르스"
+}

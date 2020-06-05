@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11662452.0012.wav": "짙은 안개와"
+}

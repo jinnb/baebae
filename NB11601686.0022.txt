@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11601686.0022.wav": "검찰과 MB 측의 대결이 아니라 측근과 mby 대결이다"
+}

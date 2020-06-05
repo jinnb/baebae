@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11460357.0050.wav": "고르는"
+}

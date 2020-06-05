@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11584106.0042.wav": "저의 학교 시절"
+}

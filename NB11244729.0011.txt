@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11244729.0011.wav": "상징하고 있어"
+}

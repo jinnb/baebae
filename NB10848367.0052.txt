@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10848367.0052.wav": "72 시간은"
+}

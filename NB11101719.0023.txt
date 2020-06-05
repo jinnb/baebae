@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11101719.0023.wav": "중국에 가서는"
+}

@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB10668183.0048.wav": "큰 빛"
+}

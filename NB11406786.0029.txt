@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11406786.0029.wav": "연대 할 거야"
+}

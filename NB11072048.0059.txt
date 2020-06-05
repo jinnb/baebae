@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11072048.0059.wav": "호스텔"
+}

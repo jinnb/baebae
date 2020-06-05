@@ -1,0 +1,3 @@
+{
+  "./datasets/son/audio/NB11916033.0007.wav": "두 명이요"
+}
